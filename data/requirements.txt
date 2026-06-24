@@ -1,0 +1,25 @@
+# AI Shift Project — Python Dependencies
+# Install: pip install -r requirements.txt
+
+# Data collection
+pytrends>=4.9.2          # Google Trends (Script 01)
+requests>=2.31.0         # HTTP requests — BLS, FRED (Scripts 02, 05)
+kaggle>=1.6.0            # Kaggle dataset downloader (Script 04)
+fredapi>=0.5.1           # FRED economic data (Script 05)
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.26.0
+openpyxl>=3.1.0          # Read/write Excel files
+
+# PDF extraction (for manual reports)
+pdfplumber>=0.10.0       # Extract tables from PDFs
+
+# EDA & visualization (next phase)
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+
+# NLP (skill extraction phase)
+scikit-learn>=1.4.0
+nltk>=3.8.0

@@ -1,0 +1,37 @@
+{
+  "ai_tools": [
+    "ChatGPT",
+    "Gemini",
+    "Claude AI",
+    "OpenAI API",
+    "LangChain",
+    "Fine tuning LLM"
+  ],
+  "ai_concepts": [
+    "Generative AI",
+    "AI Assistant",
+    "Prompt Engineering",
+    "LLM",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "job_roles": [
+    "Data Analyst jobs",
+    "Data Scientist jobs",
+    "AI Engineer jobs",
+    "Prompt Engineer jobs",
+    "ML Engineer jobs"
+  ],
+  "traditional_tools": [
+    "SQL tutorial",
+    "Excel tutorial",
+    "Power BI",
+    "Tableau",
+    "Data Analyst"
+  ],
+  "platforms": [
+    "Google Search",
+    "Stack Overflow",
+    "GitHub"
+  ]
+}
