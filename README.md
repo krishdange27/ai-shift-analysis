@@ -198,7 +198,6 @@ cd ai-shift-analysis
 pip3 install pandas pyarrow plotly dash
 
 # 3. Run the dashboard (processed data already included)
-cd data/
 python3 app/dash_app.py
 # Open http://localhost:8050
 ```
@@ -206,7 +205,6 @@ python3 app/dash_app.py
 **To re-run the cleaning pipeline** (requires raw source files):
 
 ```bash
-cd data/
 python3 src/clean_google_trends.py
 python3 src/clean_fred.py
 python3 src/clean_analyst_jobs.py
